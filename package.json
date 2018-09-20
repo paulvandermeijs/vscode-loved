@@ -1,0 +1,23 @@
+{
+  "name": "loved",
+  "displayName": "Loved",
+  "icon": "images/icon.png",
+  "description": "A Visual Studio Code theme based on Daniel Pintilei's Loved theme for Atom",
+  "version": "1.0.0",
+  "publisher": "paulvandermeijs",
+  "engines": {
+    "vscode": "^1.27.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Loved",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Loved-color-theme.json"
+      }
+    ]
+  }
+}
