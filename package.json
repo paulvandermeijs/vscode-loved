@@ -5,6 +5,10 @@
   "description": "A Visual Studio Code theme based on Daniel Pintilei's Loved theme for Atom",
   "version": "1.0.0",
   "publisher": "paulvandermeijs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulvandermeijs/vscode-loved"
+  },
   "engines": {
     "vscode": "^1.27.0"
   },
