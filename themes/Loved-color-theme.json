@@ -190,7 +190,8 @@
 		{
 			"name": "Support Functions, Language Constructs",
 			"scope": [
-				"support.function"
+				"support.function",
+				"keyword.operator.expression"
 			],
 			"settings": {
 				"foreground": "#7ea9a9"
