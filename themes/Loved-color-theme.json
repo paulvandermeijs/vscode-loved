@@ -118,7 +118,8 @@
 				"entity.other.inherited-class",
 				"meta.other.inherited-class",
 				"entity.other.alias",
-				"storage.type.cs"
+				"storage.type.cs",
+				"punctuation.separator.inheritance"
 			],
 			"settings": {
 				"foreground": "#f7987e"
@@ -152,7 +153,8 @@
 			"name": "Constants",
 			"scope": [
 				"constant",
-				"support.constant"
+				"support.constant",
+				"punctuation.separator.decimal"
 			],
 			"settings": {
 				"foreground": "#eabe9a"
@@ -162,6 +164,15 @@
 			"name": "Operators",
 			"scope": [
 				"keyword.operator"
+			],
+			"settings": {
+				"foreground": "#c0c5ce"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": [
+				"punctuation"
 			],
 			"settings": {
 				"foreground": "#c0c5ce"
@@ -181,7 +192,8 @@
 		{
 			"name": "Strings",
 			"scope": [
-				"string"
+				"string",
+				"punctuation.definition.string"
 			],
 			"settings": {
 				"foreground": "#97a38f"
