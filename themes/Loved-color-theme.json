@@ -130,7 +130,8 @@
 			"scope": [
 				"keyword",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				"punctuation.definition.block.tag"
 			],
 			"settings": {
 				"foreground": "#b18bb1"
