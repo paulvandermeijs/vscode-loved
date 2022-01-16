@@ -10,6 +10,8 @@
 		"button.background": "#6e94b9",
 
 		"dropdown.background": "#99beff08",
+        "dropdown.border": "#0004",
+        "dropdown.listBackground": "#121926",
 
 		"input.background": "#99beff08",
 		"input.border": "#0000",
