@@ -39,7 +39,7 @@
 
 		"editorGroup.dropBackground": "#99beff08",
 		"editorGroupHeader.tabsBackground": "#121926",
-		"editorGroup.border": "#0000",
+		"editorGroup.border": "#121926",
 		"editorGroupHeader.tabsBorder": "#0000",
 
 		"tab.activeForeground": "#d5dae2",
