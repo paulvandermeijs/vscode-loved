@@ -118,16 +118,19 @@
 			"name": "Identifiers",
 			"scope": [
 				"entity.name",
-				"support.class",
-				"support.type",
-				"support.other.namespace",
-				"support.other.namespace storage.type",
-				"meta.function.parameter.typehinted storage.type",
-				"entity.other.inherited-class",
-				"meta.other.inherited-class",
 				"entity.other.alias",
-				"storage.type.cs",
-				"punctuation.separator.inheritance"
+				"entity.other.inherited-class",
+				"keyword.other.type",
+				"meta.function.parameter.typehinted storage.type",
+				"meta.other.inherited-class",
+				"meta.other.type",
+				"new entity.name.function",
+				"punctuation.separator.inheritance",
+				"storage.type",
+				"support.class",
+				"support.other.namespace storage.type",
+				"support.other.namespace",
+				"support.type"
 			],
 			"settings": {
 				"foreground": "#f7987e"
@@ -137,9 +140,17 @@
 			"name": "Keywords",
 			"scope": [
 				"keyword",
-				"storage.type",
+				"keyword.operator.new",
+				"new",
+				"punctuation.definition.block.tag",
 				"storage.modifier",
-				"punctuation.definition.block.tag"
+				"storage.type.class",
+				"storage.type.function",
+				"storage.type.interface",
+				"storage.type.js",
+				"storage.type.ts",
+				"storage.type.tsx",
+				"storage.type.type"
 			],
 			"settings": {
 				"foreground": "#b18bb1"
@@ -181,6 +192,7 @@
 		{
 			"name": "Punctuation",
 			"scope": [
+				"meta.brace",
 				"punctuation"
 			],
 			"settings": {
