@@ -88,6 +88,10 @@
 		"peekViewResult.selectionBackground": "#99beff16",
 		"peekViewTitle.background": "#121926",
 
+        "settings.modifiedItemIndicator": "#73c990",
+        "settings.focusedRowBackground": "#00000010",
+        "settings.focusedRowBorder": "#0000",
+
 		"statusBar.background": "#ea7599",
 		"statusBar.noFolderBackground": "#6e94b9",
 		"statusBar.debuggingBackground": "#f07178",
