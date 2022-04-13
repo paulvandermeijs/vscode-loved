@@ -112,7 +112,11 @@
 		"terminal.ansiGreen": "#73c990",
 		"terminal.ansiRed": "#e05252",
 		"terminal.ansiYellow": "#e2c08d",
+
+		"editorInlayHint.background": "#00000010",
+		"editorInlayHint.foreground": "#75809590",
 	},
+	"semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"name": "Identifiers",
@@ -126,7 +130,7 @@
 				"meta.other.type",
 				"new entity.name.function",
 				"punctuation.separator.inheritance",
-				"storage.type",
+				"storage.type.php",
 				"support.class",
 				"support.other.namespace storage.type",
 				"support.other.namespace",
@@ -144,13 +148,7 @@
 				"new",
 				"punctuation.definition.block.tag",
 				"storage.modifier",
-				"storage.type.class",
-				"storage.type.function",
-				"storage.type.interface",
-				"storage.type.js",
-				"storage.type.ts",
-				"storage.type.tsx",
-				"storage.type.type"
+				"storage.type"
 			],
 			"settings": {
 				"foreground": "#b18bb1"
@@ -203,7 +201,8 @@
 			"name": "Comments",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
+				"punctuation.whitespace.comment"
 			],
 			"settings": {
 				"fontStyle": "italic",
