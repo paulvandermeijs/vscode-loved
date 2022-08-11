@@ -28,5 +28,11 @@
     "id": "0abe27da-8b23-496d-a872-316cf3ed0eb3",
     "publisherDisplayName": "Paul van der Meijs",
     "publisherId": "4c8479a0-dd88-4c4d-bf2f-bcb66696b7a0"
+  },
+  "devDependencies": {
+    "color": "^4.2.3"
+  },
+  "scripts": {
+    "build": "node src/index.js"
   }
 }
