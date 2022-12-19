@@ -17,9 +17,9 @@
 		"input.border": "#0000",
 		
 		"scrollbar.shadow": "#0000",
-		"scrollbarSlider.background": "#99beff08",
-		"scrollbarSlider.activeBackground": "#99beff10",
-		"scrollbarSlider.hoverBackground": "#99beff16",
+		"scrollbarSlider.background": "#75809555",
+		"scrollbarSlider.activeBackground": "#75809590",
+		"scrollbarSlider.hoverBackground": "#75809590",
 
 		"badge.background": "#0c111a",
 
