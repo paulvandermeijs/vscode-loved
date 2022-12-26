@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to the "loved" extension will be documented in this file.
 
+## [2.0.0] - 2022-12-26
+- Refactor
+- Add build script
+- Enable semantic highlighting
+
 ## [1.0.3] - 2018-11-20
 - Fix color for `punctuation.definition.block.tag`
 

@@ -3,7 +3,7 @@
   "displayName": "Loved",
   "icon": "images/icon.png",
   "description": "A Visual Studio Code theme based on Daniel Pintilei's Loved theme for Atom",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "publisher": "paulvandermeijs",
   "repository": {
     "type": "git",
